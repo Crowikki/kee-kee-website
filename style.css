@@ -25,9 +25,37 @@ h1 {
 
 h2 {
     float:left;
-    
+    text-decoration: underline;
 }
 
 #services {
-    text-decoration:underline;
+    transform: translate(-100px,50px);
+}
+ 
+
+#contactMe {
+    transform:translate(500px,-78px);
+}
+
+#book {
+    transform: translate(1000px,-165px);
+}
+
+#logoTwo {
+    width:300px;
+    height: auto;
+}
+
+#goodMorning {
+    width: 300px;
+    height:auto;
+    transform: translate(-200px,0px);
+
+}
+
+
+#theyTold {
+    width:200px;
+    height:auto;
+    transform: translate(700px,-500px);
 }
