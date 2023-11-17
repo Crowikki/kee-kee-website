@@ -1,3 +1,33 @@
 body {
-    background: pink;
+    background: white;
+}
+
+h1 {
+    text-align:center;
+    font-weight: bold;
+    transform: translate(-25px, -175px);
+    color:pink;
+
+}
+
+#es {
+    transform:translate(-20px,-200px);
+    font-weight: bold;
+    
+}
+
+#logoOne {
+    text-align:center;
+    width:200px;
+    height:auto;
+    transform: translate(450px,-40px);
+}
+
+h2 {
+    float:left;
+    
+}
+
+#services {
+    text-decoration:underline;
 }
